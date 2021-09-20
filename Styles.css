@@ -84,17 +84,28 @@ footer {
 	color: #FFFFFF;
 }
 .footerdv {
-	color: #FFFFFF;
-}
-h3 {
-	color: #FFFFFF;
-	height: 38px;
 	display: inline-block;
-	position: relative;
-	margin-top: 275px;
 	margin-left: 240px;
 }
-.Lorem {
+h4 {
+	color: #FFFFFF;
+	height: 38px;
 	position: relative;
-	top: 343px;
+	padding-top: 275px;
 }
+
+.Lorem {
+	font-size: 16px;
+	width: 463px;
+	height: 99px;
+	display: inline-block;
+	padding-bottom: 58px;
+}
+.footerdv2 {
+	display: inline-block;
+	margin-left: 977px;
+}
+.contactinfo {
+	display: inline-block;
+}
+/*unda davsrulo footerze mushaoba*/
