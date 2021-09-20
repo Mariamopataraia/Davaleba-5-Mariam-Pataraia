@@ -68,24 +68,33 @@ h3 {
 	font-size: 16px;
 	color: #171717;
 }
-button{
+button {
 	background-color: #0A22F4;
 	color: white;
 	border-radius: 28px;
 	width: 341px;
 	height: 55px;
 	border-style: none;
-	margin: 58px 0 198px 847px;
+	margin: 58px 0 198px 790px;
 	position: relative;
 }
 footer {
 	background: #0020F4;
 	height: 1080px;
 	color: #FFFFFF;
-	padding-left: 240;
 }
-.all {
-	padding-left: 240px;
-	margin-top: 1021px;
+.footerdv {
+	color: #FFFFFF;
 }
-
+h3 {
+	color: #FFFFFF;
+	height: 38px;
+	display: inline-block;
+	position: relative;
+	margin-top: 275px;
+	margin-left: 240px;
+}
+.Lorem {
+	position: relative;
+	top: 343px;
+}
