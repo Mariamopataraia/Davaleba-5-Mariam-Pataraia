@@ -1,0 +1,11 @@
+header {
+	display: inline-block;
+	background: #0020F4;
+	height: 388px;;
+}
+.logo{
+	position: absolute;
+	width: 115px;
+	height: 65px;
+	margin-left: 240px;
+}
