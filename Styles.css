@@ -68,3 +68,30 @@ h3 {
 	font-size: 16px;
 	color: #171717;
 }
+button{
+	background-color: #0A22F4;
+	color: white;
+	border-radius: 28px;
+	width: 341px;
+	height: 55px;
+	border-style: none;
+	margin: 58px 0 198px 847px;
+	position: relative;
+}
+footer{
+	background: #0020F4;
+	height: 1080px;
+}
+.footerpara{
+	color: #FFFFFF;
+	font-size: 16px;
+	padding-left: 240px;
+	padding-top: 84px;
+	text-align: left;
+}
+.footerdiv{
+	color: #FFFFFF;
+	font-size: 16px;
+	padding-left: 1345px;
+	margin-top: -84px;
+}
