@@ -78,20 +78,14 @@ button{
 	margin: 58px 0 198px 847px;
 	position: relative;
 }
-footer{
+footer {
 	background: #0020F4;
 	height: 1080px;
-}
-.footerpara{
 	color: #FFFFFF;
-	font-size: 16px;
+	padding-left: 240;
+}
+.all {
 	padding-left: 240px;
-	padding-top: 84px;
-	text-align: left;
+	margin-top: 1021px;
 }
-.footerdiv{
-	color: #FFFFFF;
-	font-size: 16px;
-	padding-left: 1345px;
-	margin-top: -84px;
-}
+
