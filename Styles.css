@@ -32,7 +32,21 @@ nav li {
 	background-color: #FFFFFF;
 	border-radius: 28px;
 }
-
+h3{
+	color: #171717;
+    padding-left: 350px;
+    padding-top: -70px;
+    position: relative;
+    font-size: 28px;
+}
+.slideimages{
+	border-radius: 15px 15px 15px 15px;
+	align-content: center;
+	margin-left: 362px;
+	margin-right: 363px: 
+}
+.littleimage{
+	width: 219px;
 #mainimage {
 	display: block;
 	margin-left: auto;
